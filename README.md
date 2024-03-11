@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-- [X] User can use the vertical orientation of the app on any device
+- [] User can use the vertical orientation of the app on any device
 - [X] User can track the question they are on and how many questions are left
 - [X] User can see how many questions they got correct after answering all questions
 - [X] User should be able to restart the game after they've finished answering all questions
@@ -25,9 +25,13 @@ The following **optional** features are implemented:
 
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+<div>
+    <a href="https://www.loom.com/share/2bddf05c82044d26882683c68cdeba59">
+    </a>
+    <a href="https://www.loom.com/share/2bddf05c82044d26882683c68cdeba59">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/2bddf05c82044d26882683c68cdeba59-with-play.gif">
+    </a>
+  </div>
 
 ## Notes
 
